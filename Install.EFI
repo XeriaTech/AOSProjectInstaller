@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>AOS Installer</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  <meta name="ROBOTS" content="NOINDEX, NOFOLLOW"/>
+</head>
+  <body align="center">
+    <h1>
+      AOS Installer
+    </h1>
+    <p>
+      This is AOS Installer,
+      a website to download AOS.py and its sources.<br>
+      This makes it easier to use AOS, as you can upload files.
+    </p>
+    <a href="admin_operations_system.py" download>
+      <button>
+        Download AOS
+      </button>
+    </a>
+    <br>
+    <a href="graphics_engine.py" download>
+      <button>
+        Download AOSGraphix
+      </button>
+    </a>
+    <p>
+      Current Version: V0.1<br>
+      Versions that were available:<br>
+      - V.0.1<br>(AOSGraphix updated)<br>
+      - V0.0.9<br>
+    </p>
+
+    <marquee scrollamount="18" direction="right"> 
+      <p>
+        CHECK AOS SOURCES:  <a href="/p/https://github.com/DeadWitherOP/AOS" target="_blank">HERE</a> OR <a href="/p/https://replit.com/@Ultrox/Admin-Operations-System-V006" target="_blank">HERE</a>
+      </p>
+    </marquee>
+    <img src="aos.png" height="400" width="400">
+    <p>Python Made Easier</p>
+  </body>
+</html>
